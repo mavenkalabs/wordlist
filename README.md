@@ -1,1 +1,1 @@
-# wordlist
+# word list for general use
